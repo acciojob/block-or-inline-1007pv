@@ -1,2 +1,6 @@
-
 /* Your CSS Code here. */
+* {
+    padding: 2px;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
